@@ -1,0 +1,11 @@
+sources:
+  - name: oliver_landing
+    database: ryanminer
+    schema: oliver_dw_source
+    tables:
+      - name: customer
+      - name: date
+      - name: employee
+      - name: product
+      - name: store
+      - name: sales
